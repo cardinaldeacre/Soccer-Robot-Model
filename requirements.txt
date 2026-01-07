@@ -1,0 +1,4 @@
+# --- System Requirements ---
+# Python Version: 3.10.19
+ultralytics
+pyserial
